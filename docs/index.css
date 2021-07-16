@@ -1,3 +1,17 @@
+@font-face {
+  font-family: malang;
+  src: url("HancomMalangMalang-Regular.ttf");
+}
+
+* {
+  font-family: malang;
+  color:white;
+}
+
+html {
+  background-color:black;
+}
+
 .swiper-container {
   width: 100%;
   height: 100%;
