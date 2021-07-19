@@ -1,0 +1,22 @@
+html, body {
+  margin:0;
+  padding:0;
+}
+
+.alarm {
+  top:40.3%;
+  left:23%;
+  width:26%;
+}
+
+.phone {
+  bottom:8%;
+  left:18.85%;
+  width:21.7%;
+  z-index: 99;
+}
+
+.slide {
+  bottom:8.17%;
+  left:0;
+}
