@@ -52,7 +52,7 @@ $(function () {
 
   Alarm_AnimationInit();
   Mobile_SlideInit();
-  for (var i = 0; i < 13; i++)
+  for (var i = 0; i < 14; i++)
   {
     if(i%2==0) {
       EvenStars_RotateInit(i);

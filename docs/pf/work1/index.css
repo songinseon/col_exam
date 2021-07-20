@@ -81,13 +81,18 @@ html, body {
   left:20%;
 }
 
+.star-13 {
+  top: 58%;
+  left:13%;
+}
+
 /* 별 사이즈 */
 .star.lg > img {
-  width:50%;
+  width:40%;
 }
 
 .star.md > img {
-  width:40%;
+  width:30%;
 }
 
 .star.sm > img {
