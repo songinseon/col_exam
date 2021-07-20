@@ -83,13 +83,13 @@ html, body {
 
 /* 별 사이즈 */
 .star.lg > img {
-  width:70%;
+  width:50%;
 }
 
 .star.md > img {
-  width:60%;
+  width:40%;
 }
 
 .star.sm > img {
-  width:30%;
+  width:20%;
 }
