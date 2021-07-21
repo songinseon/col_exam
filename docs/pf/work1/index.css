@@ -1,25 +1,82 @@
+/* 노말라이즈 */
 html, body {
   margin:0;
   padding:0;
 }
 
+/* 알람 커스텀 */
 .alarm {
   top:40.3%;
   left:23%;
   width:26%;
 }
 
+/* 영상 커스텀 */
+.video-wrap {
+  width:19.1%;
+}
+
+.video-intro {
+  top:0.95%;
+  left:16.3%;
+}
+
+.video-personal {
+  top:64.65%;
+  left:38.3%;
+}
+
+.video-sharing {
+  top:72.65%;
+  left:38.3%;
+}
+
+.video-diary {
+  top:79.65%;
+  left:33.3%;
+}
+
+/* 핸드폰 틀 커스텀 */
 .phone {
+  width:21.7%;
+}
+
+.main-phone {
+  top:0.8%;
+  left:15%;
+}
+
+.personal-phone {
+  top:64.5%;
+  left:37%;
+}
+
+.sharing-phone {
+  top:72.5%;
+  left:37%;
+}
+
+.diary-phone {
+  top:79.5%;
+  left:32%;
+}
+
+.slide-phone {
   bottom:8%;
   left:18.85%;
-  width:21.7%;
   z-index: 99;
 }
+
+
+/* 슬라이드 */
 
 .slide {
   bottom:8.17%;
   left:0;
 }
+
+
+/* 별 커스텀 */
 
 .star-1 {
   top:43%;
